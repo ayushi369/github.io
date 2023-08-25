@@ -1,0 +1,61 @@
+.heading
+{
+   height:6.5%;
+   width:100%;
+   background-color: #698B96;
+   
+}
+.button
+{
+	font-family: Outfit;
+	font-size: 17px;
+	font-weight: bold;
+	background-color: #A8ECB7;
+	margin: 5px 0px 0px 15px;
+	width: 65px;
+	padding: 5px 0px 5px;
+	border-radius: 4px;
+	
+}
+.button:hover
+{
+	opacity: 0.7;
+	cursor: pointer;
+}
+h1{
+	color:black;
+	font-family:Outfit;
+	font-size:40px;
+	margin-top: 60px;
+}
+body
+{
+  font-family:Outfit; 
+  background: #CEDED6; 
+  color:black;
+}
+table{
+	border: 2px solid black;
+}
+th{
+	background-color: #9ADAD2;
+	font-family: Outfit;
+	font-size:20;
+}
+td{
+	text-align:center;
+	font-size:20px;
+}
+.delete
+{
+	background-color:#D9D9D9;
+}
+.delete:hover{
+	opacity: 0.7;
+	cursor: pointer;
+}
+.text{
+	border: 0px;
+	text-align: center; 
+	background-color: #CEDED6;
+}

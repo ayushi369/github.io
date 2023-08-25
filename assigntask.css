@@ -1,0 +1,90 @@
+.heading
+{
+   height:6.5%;
+   width:100%;
+   background-color: #698B96;
+   
+}
+.button
+{
+	font-family: Outfit;
+	font-size: 17px;
+	font-weight: bold;
+	background-color: #A8ECB7;
+	margin: 5px 0px 0px 15px;
+	width: 65px;
+	padding: 5px 0px 5px;
+	border-radius: 4px;
+	
+}
+.button:hover
+{
+	opacity: 0.7;
+	cursor: pointer;
+}
+body
+{
+	background-color: #CEDED6;
+	
+}
+h1{
+	color:black;
+	font-family:Outfit;
+	font-size:40px;
+	margin-top: 60px;
+}
+body
+{
+  font-family:Outfit; 
+  background: #CEDED6; 
+  color:black;
+}
+
+input{
+    width: 100%;
+    margin: 10px 0;
+    border-radius: 5px;
+    padding: 15px 18px;
+    box-sizing: border-box;
+	font-size: 20px;
+	font-family: Outfit;
+ }
+ .assign 
+ {
+	font-weight: bold;
+	font-family: Outfit;
+	text-align: center;
+    background-color: #4FD444;
+    color: black;
+    padding: 14px 20px;
+    border-radius: 35px;
+    margin: 7px 0;
+    width: 30%;
+    font-size: 18px;
+}
+
+.assign:hover
+ {
+    opacity: 0.75;
+    cursor: pointer;
+ }
+  
+form
+{
+	font-family: Outfit;
+    width:45%;
+	margin: 35px 40px 10px 370px ;
+    color:black;
+    background-color: #B4E7C0;
+    border-radius: 12px;
+    border: 1px solid rgba(255, 255, 255, 0.125);
+}
+
+.headingContainer{
+	font-size: 32px; 
+    text-align: center;
+	margin-top: 10px;
+}
+.mainContainer{
+    padding: 10px;
+}
